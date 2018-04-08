@@ -1,5 +1,7 @@
 # AWS Polly Note Reader
 
+Forked form A Gloud Guru AWS training video.
+
 ## Tools
 
 * AWS Lambda using Python 2.7
